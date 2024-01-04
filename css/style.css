@@ -1,0 +1,19 @@
+
+.jumbotron {
+    padding-top: 3rem;
+    background-color: #e2edff;
+    
+}
+
+body {
+    min-height: 2000px;
+}
+
+#portofolio {
+    background-color: #e2edff;
+}
+
+.nav-item a:hover {
+    color: red;
+    text-decoration: underline;
+}
